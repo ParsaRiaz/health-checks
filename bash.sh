@@ -9,6 +9,6 @@ echo "FREE"; free; echo $line
 
 echo "WHO"; who; echo $line
 
-echo "Finishing at: $(date)"; echo "script completed"
+echo "Finishing at: $(date)"; echo "done"
 
 
